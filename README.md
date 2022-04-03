@@ -1,10 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## node:
+
+-v 14
+
+## jest
+
+jest vs next.js vs ts
+[dżem-js](https://www.youtube.com/watch?v=uS2UwnfXIAs&list=PLT7X0UTo8GN_nsAlEdVInoRkvE_pmLayP)
+[article](https://dev-yakuza.posstree.com/en/react/nextjs/test/)
+[next.js doc](https://nextjs.org/docs/testing#setting-up-jest-with-babel)
+[react-testing-library](https://testing-library.com/docs/react-testing-library/intro/)
 
 ## Getting Started
 
 First, run the development server:
 
-```bash
+```bashd
 npm run dev
 # or
 yarn dev
@@ -22,8 +32,8 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+-   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
